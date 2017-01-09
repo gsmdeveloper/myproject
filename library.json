@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/gsmdeveloper/myproject.git"
     },
-    "version": "1.1",
+    "version": "1.4.4",
     "exclude": "tests",
     "examples": "examples/*/*.ino",
     "frameworks": "arduino",
